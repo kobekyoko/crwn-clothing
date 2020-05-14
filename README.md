@@ -1,7 +1,7 @@
 ### Crown-Clothing
 
 Crown Clothing is an e-commerce website using React and JavaScript.
-Ongoing project as is May, 2020.
+Ongoing project as is May,2020.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
